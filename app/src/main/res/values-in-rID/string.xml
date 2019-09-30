@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hanya Java</string>
+    <string name="Chocolate_Topping">Toping Coklat</string>
+    <string name="Name">Nama</string>
+    <string name="Order">Pesan</string>
+    <string name="Quantity">Jumlah</string>
+    <string name="toppings">Toping</string>
+    <string name="Price">Harga</string>
+    <string name="Whipped_Cream">Krim Kocok</string>
+</resources>
